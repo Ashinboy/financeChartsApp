@@ -32,7 +32,7 @@ class chartDetailViewController: UIViewController {
     
     //Data
     var stockItems: StockData?
-    var stockDatas: String
+    var stockDatas: String = ""
     
     
     override func viewDidLoad() {
